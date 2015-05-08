@@ -7,5 +7,5 @@ Java
 Weka
 
 Autores:
-Egoitz Puerta
 Helen J. Paz
+Egoitz Puerta
